@@ -283,5 +283,5 @@
 #### [**Final Examination**] - *(Lec + Lab)* - **TBA**
 
 ---
-### See you at **MII 207B**
+### See you at our lecture room, **MII 207B**
 ![](photo/room.jpg "MII 207B")
