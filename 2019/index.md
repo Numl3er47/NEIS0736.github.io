@@ -233,8 +233,8 @@
 
 ---
 
-#### [**Semi-final Examination**] - *(Sun)* **Aug 4, 2019** *(AM)*
-
+#### [**Semi-final Examination**] 
+* *(Sun)* **Aug 4, 2019** *(AM)*
 *  ***Keywords***
 	* Testable Security Requirement
 	* Security Test Case
@@ -280,7 +280,8 @@
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 *  **#EndGame**, the ***Final Battle***
 
-#### [**Final Examination**] - *(Lec + Lab)* - **TBA**
+#### [**Final Examination**] - *(Lec + Lab)*
+*  **TBA**
 
 ---
 ## Our lecture room, **MII 207B**
