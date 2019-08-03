@@ -274,9 +274,10 @@
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
-*  Grouping for the <a href="#EndGame">#EndGame</a>
 
 <a name="EndGame"></a>
+*  Grouping for the <a href="#EndGame">#EndGame</a>
+
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 *  **#EndGame**, the ***Final Battle***
 
