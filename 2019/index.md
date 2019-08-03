@@ -274,7 +274,6 @@
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
-
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
 
