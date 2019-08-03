@@ -276,6 +276,7 @@
 *  **MiSS**x***Talks***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
+*  **#EndGame** the ***Final Battle***
 
 #### [**Final Examination**] - *(Lec + Lab)* - **TBA**
 
