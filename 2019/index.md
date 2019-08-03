@@ -281,4 +281,4 @@
 
 #### [**Final Examination**] - *(Lec + Lab)* - **TBA**
 
-<br/><br/><br/><br/><br/>
+![](photo/room.jpg "MII 207B")
