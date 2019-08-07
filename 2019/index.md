@@ -280,7 +280,15 @@
 *  **#EndGame**, the ***Final Battle***
 
 #### [**Final Examination**] - *(Lec + Lab)*
-*  **TBA**
+*  Date : **TBA**
+*  ***Keywords***
+	* Keyword1
+	* Keyword2
+	* Keyword3
+	* ...
+	* KeywordN-2
+	* KeywordN-1
+	* KeywordN
 
 ---
 ## Our lecture room, **MII 207B**
