@@ -10,8 +10,6 @@
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
-*  (Jul 21)
-	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 *  (Aug 10)
 	* **Tossaporn Hansing** (6117810016)
 	* **Ardnarong Boonkerd** (Certificate) - "***Improving Code Quality with SonarQube***"
@@ -30,6 +28,8 @@
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
+*  (Sep 21)
+	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
