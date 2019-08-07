@@ -14,13 +14,13 @@
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 *  (Aug 10)
 	* **Tossaporn Hansing** (6117810016)
-	* **Ardnarong Boonkerd** (Certificate)
-*  (Aug 17)
-	* **Chalermwut Likasitwong** (6117810006)
-	* **Chitsanuphong Thaninthorn** (6117660004)
+	* **Ardnarong Boonkerd** (Certificate) - "***Improving Code Quality with SonarQube***"
 *  (Aug 24)
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Tanapad Onsri** (6117810004)
+*  (Aug 25)
+	* **Chalermwut Likasitwong** (6117810006)
+	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 31) 
 	* **Sirimongkol Wongfu** (6117810003)
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
