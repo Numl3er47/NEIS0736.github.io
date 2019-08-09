@@ -267,15 +267,23 @@
 
 #### [**Day 11**] - (Sat) **Aug 31,** 2019
 *  **MiSS**x***Talks***
+   * *Sirimongkol W*
+   * *Mutchima C*
 
 #### [**Day 12**] - (Sat) **Sep 7,** 2019
 *  **MiSS**x***Talks***
+   * *Raksapon L*
+   * *Suparath S*
 
 #### [**Day 13**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
+   * *Yuttapon K*
+   * *Wissanu S*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
+   * *Pattama T*
+   * *Tossaporn H*
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
 
