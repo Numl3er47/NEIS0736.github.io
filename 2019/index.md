@@ -252,12 +252,16 @@
 
 #### [**Day 9**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
+   * *Pongpat P.*
+   * *Tanapad O.*
 *  [The **Twelve-Factor App**](https://12factor.net)
 *  **Integrated Environment** for **Self Learning** by Students
 
 <a name="HereWeFix"></a>
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
+   * *Chalermwut L*
+   * *Chitsanuphong T*
 *  **Code Review**
 *  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
