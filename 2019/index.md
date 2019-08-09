@@ -11,7 +11,6 @@
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
 *  (Aug 10)
-	* **Tossaporn Hansing** (6117810016)
 	* **Ardnarong Boonkerd** (Certificate) - "***Improving Code Quality with SonarQube***"
 *  (Aug 24)
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
@@ -30,6 +29,7 @@
 	* **Wissanu Sameejaeng** (6117810011)
 *  (Sep 21)
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
+	* **Tossaporn Hansing** (6117810016)
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
