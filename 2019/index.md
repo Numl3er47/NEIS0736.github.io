@@ -29,7 +29,7 @@
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
 
-**Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides)) ([slide](https://gitlab.com/NEIS0736/2019/tree/master/slide))
+**Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
