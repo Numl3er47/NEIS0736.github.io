@@ -267,6 +267,7 @@
 *  **MiSS**x***Talks***
    * *Pongpat P.*
    * *Tanapad O.*
+*   **Project Scope Presentation**
 *  [The **Twelve-Factor App**](https://12factor.net)
 *  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 *  **Integrated Environment** for **Self Learning** by Students
@@ -300,7 +301,8 @@
    * *Tossaporn H*
 *  **Term Project**
    1. *CI/CD*
-   1. *TBD*
+   1. *Blockchain*
+   1. *TBD (if any)*
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
 
