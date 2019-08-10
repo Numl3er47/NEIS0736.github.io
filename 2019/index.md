@@ -37,6 +37,7 @@
 	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***"
 *  (Aug 10)
 	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***"
+
 ---
 
 **Members**
