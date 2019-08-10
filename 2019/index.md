@@ -10,8 +10,6 @@
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
-*  (Aug 10)
-	* **Ardnarong Boonkerd** (Certificate) - "***Improving Code Quality with SonarQube***"
 *  (Aug 24)
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
@@ -37,6 +35,9 @@
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
 *  (Jul 13) 
 	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***"
+*  (Aug 10)
+	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***"
+	
 
 ---
 
