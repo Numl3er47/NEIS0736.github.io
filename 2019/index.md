@@ -14,7 +14,7 @@
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
 *  (Aug 25)
-	* **Chalermwut Likasitwong** (6117810006)
+	* **Chalermwut Likasitwong** (6117810006) - "***Payment Application - Data Security Standard (PA-DSS)***"
 	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 31) 
 	* **Sirimongkol Wongfu** (6117810003)
@@ -168,6 +168,7 @@
 	  ([TC01](https://ardnarong.github.io/TC01))
 	* ([Bitbucket](https://ardnarong.github.io/Bitbucket-Authentication))
 	  ([TC02](https://ardnarong.github.io/TC02))
+	* ([MiSSxTalk](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf))  
 	* ([ArdnarongB](https://ardnarong.github.io/ArdnarongB))
 1. **Certificate - Boonma Sirinitsriwong\***
 	* (Hello World\*)
