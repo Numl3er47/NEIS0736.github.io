@@ -298,6 +298,9 @@
 *  **MiSS**x***Talks***
    * *Pattama T*
    * *Tossaporn H*
+*  **Term Project**
+   1. *CI/CD*
+   1. *TBD*
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
 
