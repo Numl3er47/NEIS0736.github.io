@@ -32,11 +32,11 @@
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Jun 29)
-	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
+	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***" - [[Online](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
 *  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***"
+	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Online](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
 *  (Aug 10)
-	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***"
+	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
 
 ---
 
