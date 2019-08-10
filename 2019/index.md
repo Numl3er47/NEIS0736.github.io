@@ -299,7 +299,7 @@
 *  **MiSS**x***Talks***
    * *Pattama T*
    * *Tossaporn H*
-*  **Term Project**
+*  **Project Presentation**
    1. *CI/CD*
    1. *Blockchain*
    1. *TBD (if any)*
