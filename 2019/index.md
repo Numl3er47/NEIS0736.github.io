@@ -261,6 +261,7 @@
 *  **MiSS**x***Talks***
    * *Ardnarong B.*
 *  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project), a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues.
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-8)** *by **Xxxxx X.***
 
 #### [**Day 9**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
