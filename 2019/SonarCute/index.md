@@ -1,24 +1,24 @@
 # **"CI/CD We Can"** *by #SonarCute*!
 ---
 
-* XXXXX:
+* **XXXXX:**
 
 Xxxxxxxxxx
 
 ---
 
-* YYYYY:
+* **YYYYY:**
 
 	* yyyy
 
 ---
 
-* ZZZZZ:
+* **ZZZZZ:**
 
 Zzzzzzzzzz
 
 ---
-* Team Member:
+* **Team Member:**
 
 	1. xxxx
 	1. xxxx
