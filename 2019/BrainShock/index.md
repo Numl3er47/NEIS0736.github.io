@@ -1,24 +1,24 @@
 # **"Blockchain We Trust"** *by #BrainShock*!
 ---
 
-* **XXXXX:**
+* **XXXXX**
 
 Xxxxxxxxxx
 
 ---
 
-* **YYYYY:**
+* **YYYYY**
 
 	* yyyy
 
 ---
 
-* **ZZZZZ:**
+* **ZZZZZ**
 
 Zzzzzzzzzz
 
 ---
-* **Team Member:**
+* **Team Member**
 
 	1. xxxx
 	1. xxxx
