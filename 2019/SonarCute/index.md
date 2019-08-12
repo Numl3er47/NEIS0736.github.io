@@ -5,13 +5,9 @@
 
 Xxxxxxxxxx
 
-	* xxx
-
 ---
 
 * YYYYY:
-
-Yyyyyyyyyy
 
 	* yyyy
 
@@ -20,8 +16,6 @@ Yyyyyyyyyy
 * ZZZZZ:
 
 Zzzzzzzzzz
-
-	* zzzz
 
 ---
 * Team Member:
