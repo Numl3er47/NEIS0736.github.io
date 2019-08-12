@@ -1,4 +1,4 @@
-# **CI/CD We Can by #SonarCute**!
+# **"CI/CD We Can"** *by #SonarCute*!
 ---
 
 * XXXXX:
