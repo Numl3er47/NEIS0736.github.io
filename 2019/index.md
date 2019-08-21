@@ -13,7 +13,6 @@
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
 *  (Aug 24)
-	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
 *  (Aug 25)
 	* **Chalermwut Likasitwong** (6117810006) - "***Payment Application - Data Security Standard (PA-DSS)***"
@@ -21,15 +20,19 @@
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
-*  (Sep 8) 
-	* **Sirimongkol Wongfu** (6117810003)
-	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
+*  (Sep 15) 
+	* **Sirimongkol Wongfu** (6117810003)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 21)
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
+
+*  Postponed
+	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
+
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
@@ -288,15 +291,15 @@
    * *Raksapon L*
    * *Suparath S*
 
-#### [**Day 12**] - (***Sun***) **Sep 8,** 2019 (***15:30 - 18:30***)
-*  **MiSS**x***Talks***
-   * *Sirimongkol W*
-   * *Mutchima C*
-
-#### [**Day 13**] - (Sat) **Sep 14,** 2019
+#### [**Day 12**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
    * *Yuttapon K*
    * *Wissanu S*
+
+#### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
+*  **MiSS**x***Talks***
+   * *Sirimongkol W*
+   * *Mutchima C*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
