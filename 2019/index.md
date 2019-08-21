@@ -18,12 +18,12 @@
 *  (Aug 25)
 	* **Chalermwut Likasitwong** (6117810006) - "***Payment Application - Data Security Standard (PA-DSS)***"
 	* **Chitsanuphong Thaninthorn** (6117660004)
-*  (Aug 31) 
-	* **Sirimongkol Wongfu** (6117810003)
-	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
+*  (Sep 8) 
+	* **Sirimongkol Wongfu** (6117810003)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
@@ -283,15 +283,15 @@
 *  **Code Review**
 *  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
-#### [**Day 11**] - (Sat) **Aug 31,** 2019
-*  **MiSS**x***Talks***
-   * *Sirimongkol W*
-   * *Mutchima C*
-
-#### [**Day 12**] - (Sat) **Sep 7,** 2019
+#### [**Day 11**] - (Sat) **Sep 7,** 2019
 *  **MiSS**x***Talks***
    * *Raksapon L*
    * *Suparath S*
+
+#### [**Day 12**] - (***Sun***) **Sep 8,** 2019 (***15:30 - 18:30***)
+*  **MiSS**x***Talks***
+   * *Sirimongkol W*
+   * *Mutchima C*
 
 #### [**Day 13**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
