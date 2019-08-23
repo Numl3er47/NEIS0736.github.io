@@ -14,7 +14,7 @@
 
 *  (Aug 24)
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
-	* **Chalermwut Likasitwong** (6117810006) - "***Payment Application - Data Security Standard (PA-DSS)***"
+	* **Chalermwut Likasitwong** (6117810006) - "***Tips for Securing your Information Under PCI DSS***"
 *  (Aug 25)
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
