@@ -281,6 +281,7 @@
 <a name="HereWeFix"></a>
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
+   * *Mutchima C*
 *  **Code Review**
 *  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
@@ -297,7 +298,6 @@
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
    * *Sirimongkol W*
-   * *Mutchima C*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
