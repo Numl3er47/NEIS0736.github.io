@@ -14,9 +14,8 @@
 
 *  (Aug 24)
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
-*  (Aug 25)
 	* **Chalermwut Likasitwong** (6117810006) - "***Payment Application - Data Security Standard (PA-DSS)***"
-	* **Chitsanuphong Thaninthorn** (6117660004)
+*  (Aug 25)
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
@@ -32,6 +31,7 @@
 
 *  Postponed
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
+	* **Chitsanuphong Thaninthorn** (6117660004)
 
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
