@@ -16,6 +16,7 @@
 	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
 	* **Chalermwut Likasitwong** (6117810006) - "***Tips for Securing your Information Under PCI DSS***"
 *  (Aug 25)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
@@ -24,7 +25,6 @@
 	* **Wissanu Sameejaeng** (6117810011)
 *  (Sep 15) 
 	* **Sirimongkol Wongfu** (6117810003)
-	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 21)
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
