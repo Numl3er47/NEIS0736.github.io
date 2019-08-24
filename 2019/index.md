@@ -273,8 +273,19 @@
 *  **MiSS**x***Talks***
    * *Tanapad O.*
    * *Chalermwut L.*
-*   **Project Scope Presentation**
 *  [The **Twelve-Factor App**](https://12factor.net)
+	1. 
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
+	1.
 *  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 *  **Integrated Environment** for **Self Learning** by Students
 
@@ -289,6 +300,7 @@
 *  **MiSS**x***Talks***
    * *Raksapon L*
    * *Suparath S*
+*   **Project Scope Presentation**
 
 #### [**Day 12**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
