@@ -276,16 +276,16 @@
 *  [The **Twelve-Factor App**](https://12factor.net)
 	1. Pattama Thongprapai
 	1. Mutchima Chuensart
-	1.
+	1. Sirimongkol Wongfu
 	1. Wissanu Sameejaeng
-	1.
+	1. Chalermwut Likasitwong
 	1. Yuttapon Kunkot 
-	1.
-	1.
-	1.
-	1.
-	1.
-	1.
+	1. Angkarn Pummarin
+	1. Raksapon Leelachat
+	1. Suparath Suwannakorth
+	1. Peranol Akkarasarateera
+	1. Tanapad Onsri
+	1. Chitsanuphong Thaninthorn
 *  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 *  **Integrated Environment** for **Self Learning** by Students
 
