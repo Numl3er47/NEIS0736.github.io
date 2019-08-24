@@ -274,8 +274,8 @@
    * *Tanapad O.*
    * *Chalermwut L.*
 *  [The **Twelve-Factor App**](https://12factor.net)
-	1. 
-	1.
+	1. Pattama Thongprapai
+	1. Mutchima Chuensart
 	1.
 	1. Wissanu Sameejaeng
 	1.
