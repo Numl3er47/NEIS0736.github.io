@@ -284,11 +284,14 @@
 	1. Peranol Akkarasarateera
 	1. Tanapad Onsri
 	1. Chitsanuphong Thaninthorn
-*  **Integrated Environment** for **Self Learning** by Students
+*  **[Scribe of the day - Group 1](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9-Group1)** *by **Wissanu S.***
+*  **[Scribe of the day - Group 2](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9)** *by **Raksapon L.***
+*  **[Scribe of the day - Group 3](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9)** *by **Tanapad O.***
 
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
 *  **Secure Coding**
 *  **Static code analysis**
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-10)** *by **Yuttapon K.***
 
 <a name="HereWeFix"></a>
 #### [**Day 11**] - (Sat) **Sep 7,** 2019
