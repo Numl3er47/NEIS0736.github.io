@@ -12,26 +12,24 @@
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
-*  (Aug 24)
-	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
-	* **Chalermwut Likasitwong** (6117810006) - "***Tips for Securing your Information Under PCI DSS***"
-*  (Aug 25)
-	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 7) 
-	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
+	* **Sirimongkol Wongfu** (6117810003)
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
 *  (Sep 15) 
-	* **Sirimongkol Wongfu** (6117810003)
 *  (Sep 21)
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
 
+	
+	* **Raksapon Leelachat** (6117810001)
+
 *  Postponed
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Chitsanuphong Thaninthorn** (6117660004)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
@@ -42,7 +40,9 @@
 	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Online](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
 *  (Aug 10)
 	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
-
+*  (Aug 24)
+	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
+	* **Chalermwut Likasitwong** (6117810006) - "***Tips for Securing your Information Under PCI DSS***"
 ---
 
 **Members**
@@ -297,18 +297,18 @@
 *  **MiSS**x***Talks***
    * *Suparath S*
    * *Sirimongkol W*
+*  **Project Scope Presentation**
 *  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
-*   **Project Scope Presentation**
 
 #### [**Day 12**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
    * *Yuttapon K*
    * *Wissanu S*
-   * *Raksapon L*
-   * *Mutchima C*
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
+   * *Raksapon L*
+   * *Mutchima C*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
