@@ -38,8 +38,8 @@
 *  (Aug 10)
 	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
 *  (Aug 24)
-	* **Tanapad Onsri** (6117810004) - "***Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important***"
-	* **Chalermwut Likasitwong** (6117810006) - "***Tips for Securing your Information Under PCI DSS***"
+	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
+	* **Chalermwut Likasitwong** (6117810006) - "***[Tips for Securing your Information Under PCI DSS](https://)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
 ---
 
 **Members**
