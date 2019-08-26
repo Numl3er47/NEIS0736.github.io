@@ -286,30 +286,29 @@
 	1. Peranol Akkarasarateera
 	1. Tanapad Onsri
 	1. Chitsanuphong Thaninthorn
-*  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 *  **Integrated Environment** for **Self Learning** by Students
 
-<a name="HereWeFix"></a>
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
-*  **MiSS**x***Talks***
-   * *Mutchima C*
-*  **Code Review**
-*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
+*  **Secure Coding**
+*  **Static code analysis**
 
+<a name="HereWeFix"></a>
 #### [**Day 11**] - (Sat) **Sep 7,** 2019
 *  **MiSS**x***Talks***
-   * *Raksapon L*
    * *Suparath S*
+   * *Sirimongkol W*
+*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 *   **Project Scope Presentation**
 
 #### [**Day 12**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
    * *Yuttapon K*
    * *Wissanu S*
+   * *Raksapon L*
+   * *Mutchima C*
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
-   * *Sirimongkol W*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
