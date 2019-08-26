@@ -10,8 +10,6 @@
 
 ---
 
-**MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
-
 *  (Sep 7) 
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 	* **Sirimongkol Wongfu** (6117810003)
