@@ -32,13 +32,13 @@
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Jun 29)
-	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***" - [[Online](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
+	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***" - [[Done](https://www.facebook.com/photo.php?fbid=10215306429115619&set=a.1301716704634)]
 *  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Online](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
+	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***" - [[Done](https://www.facebook.com/photo.php?fbid=10211640073316263&set=a.1808814919020)]
 *  (Aug 10)
-	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
+	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
 *  (Aug 24)
-	* **Chalermwut Likasitwong** (6117810006) - "***[Tips for Securing your Information Under PCI DSS](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Tips-for-Securing-your-Information-Under-PCI-DSS.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
+	* **Chalermwut Likasitwong** (6117810006) - "***[Tips for Securing your Information Under PCI DSS](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Tips-for-Securing-your-Information-Under-PCI-DSS.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
 	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
 
 ---
