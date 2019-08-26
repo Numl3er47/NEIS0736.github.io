@@ -291,6 +291,7 @@
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
 *  **Secure Coding**
 *  **Static code analysis**
+   * *Studend-generated Learning Environment*
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-10)** *by **Yuttapon K.***
 
 <a name="HereWeFix"></a>
