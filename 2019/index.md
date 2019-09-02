@@ -14,7 +14,7 @@
 
 *  (Sep 7) 
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
-	* **Sirimongkol Wongfu** (6117810003)
+	* **Sirimongkol Wongfu** (6117810003) - "***What is Security Misconfiguration, and How to Avoid it***"
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
