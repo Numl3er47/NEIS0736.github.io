@@ -13,7 +13,6 @@
 **MiSS**x***Talks***
 
 *  (Sep 7) 
-	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 	* **Sirimongkol Wongfu** (6117810003) - "***What is Security Misconfiguration, and How to Avoid it***"
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
@@ -27,6 +26,7 @@
 *  Postponed
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Chitsanuphong Thaninthorn** (6117660004)
+	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 
 
 **Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
