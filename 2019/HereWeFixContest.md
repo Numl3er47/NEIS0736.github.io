@@ -1,7 +1,7 @@
 # **#HereWeFix Contest**!
 
 ---
-* (***Sat***) **Sep 9,** 2019 
+(***Sat***) **Sep 9,** 2019 
 
 ## 1st round winners
 * test
