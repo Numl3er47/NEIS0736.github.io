@@ -297,7 +297,6 @@
 <a name="HereWeFix"></a>
 #### [**Day 11**] - (Sat) **Sep 7,** 2019
 *  **MiSS**x***Talks***
-   * *Suparath S*
    * *Sirimongkol W*
 *  **Project Scope Presentation**
 *  **[#HereWeFix *Contest*](HereWeFixContest)** [Google](https://www.google.com/search?q=%23HereWeFix)
