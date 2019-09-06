@@ -9,19 +9,19 @@
 * test
 * test
 
-## ***2nd** round winners
+## **2nd** round winners
 * test
 * test
 
-## ***3rd** round winners
+## **3rd** round winners
 * test
 * test
 
-## ***4th** round winners
+## **4th** round winners
 * test
 * test
 
-## ***5th** round winners
+## **5th** round winners
 * test
 * test
 
