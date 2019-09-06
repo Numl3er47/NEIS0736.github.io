@@ -300,7 +300,7 @@
    * *Suparath S*
    * *Sirimongkol W*
 *  **Project Scope Presentation**
-*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
+*  **[#HereWeFix *Contest*](HereWeFixContest)** 
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-11)** *by **???***
 
 #### [**Day 12**] - (Sat) **Sep 14,** 2019
