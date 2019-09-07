@@ -22,13 +22,13 @@
 * Tanapad Onsri
 
 ---
-### **4th** round winners (ba_insecure_login)
+### **4th** round winners ([ba_insecure_login](https://chitsanuphongt.github.io/ba_insecure_login))
 * Chalermwut Likasitwong
 * Chitsanuphong Thaninthorn
 * Pongpat Petchai
 
 ---
-### **5th** round winners (sqli_1)
+### **5th** round winners ([sqli_1](https://twinzabx2.github.io/sqli_1))
 * Wissanu Sameejeang
 * Tossaporn Hansing
 * Sirimongkol Wongfu
