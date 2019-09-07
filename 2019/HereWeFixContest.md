@@ -17,8 +17,9 @@
 
 ---
 ### **3rd** round winners
-* test
-* test
+* Angkarn Pummarin
+* Raksapon Leelachat
+* Tanapad Onsri
 
 ---
 ### **4th** round winners
