@@ -285,8 +285,8 @@
 	1. Tanapad Onsri
 	1. Chitsanuphong Thaninthorn
 *  **[Scribe of the day - Group 1](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9-Group1)** *by **Wissanu S.***
-*  **[Scribe of the day - Group 2](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9)** *by **Raksapon L.***
-*  **[Scribe of the day - Group 3](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9)** *by **Tanapad O.***
+*  **[Scribe of the day - Group 2](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9-Group2)** *by **Raksapon L.***
+*  **[Scribe of the day - Group 3](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-9-Group3)** *by **Tanapad O.***
 
 #### [**Day 10**] - (***Sun***) **Aug 25,** 2019 (***15:30 - 18:30***)
 *  **Secure Coding**
