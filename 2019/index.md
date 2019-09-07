@@ -298,7 +298,7 @@
 *  **MiSS**x***Talks***
    * *Sirimongkol W*
 *  **Project Scope Presentation**
-*  **[#HereWeFix *Contest*](HereWeFixContest)** [Google](https://www.google.com/search?q=%23HereWeFix)
+*  **[#HereWeFix *Contest*](HereWeFixContest)** ([Google](https://www.google.com/search?q=%23HereWeFix))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-11)** *by **Pattama T.***
 
 #### [**Day 12**] - (Sat) **Sep 14,** 2019
