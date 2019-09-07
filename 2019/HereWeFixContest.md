@@ -11,8 +11,9 @@
 
 ---
 ### **2nd** round winners
-* test
-* test
+* Sirimongkol Wongfu
+* Pattama Thongprapai
+* Ardnarong Boonkerd
 
 ---
 ### **3rd** round winners
