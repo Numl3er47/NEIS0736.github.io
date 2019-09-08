@@ -35,7 +35,10 @@
 
 ---
 
-![](HereWeFix\54.jpg "#HereWeFix Contest")
+![](HereWeFix/54.jpg "#HereWeFix Contest")
+![](HereWeFix/56.jpg "#HereWeFix Contest")
+
+![](HereWeFix/58.jpg "#HereWeFix Contest")
 
 ---
 
