@@ -1,7 +1,7 @@
 # **"CI/CD We Can"** *by #SonarCute*!
 ---
 
-![](ScopePresentation.jpg "by Khun Ardnarong")
+![](ScopePresentation.jpg "by Khun Ardnarong Boonkerd")
 
 ---
 
