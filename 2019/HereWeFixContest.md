@@ -36,9 +36,28 @@
 ---
 
 ![](HereWeFix/54.jpg "#HereWeFix Contest")
+
 ![](HereWeFix/56.jpg "#HereWeFix Contest")
 
 ![](HereWeFix/58.jpg "#HereWeFix Contest")
+
+![](HereWeFix/60.jpg "#HereWeFix Contest")
+
+![](HereWeFix/62.jpg "#HereWeFix Contest")
+
+![](HereWeFix/64.jpg "#HereWeFix Contest")
+
+![](HereWeFix/66.jpg "#HereWeFix Contest")
+
+![](HereWeFix/68.jpg "#HereWeFix Contest")
+
+![](HereWeFix/70.jpg "#HereWeFix Contest")
+
+![](HereWeFix/72.jpg "#HereWeFix Contest")
+
+![](HereWeFix/74.jpg "#HereWeFix Contest")
+
+![](HereWeFix/76.jpg "#HereWeFix Contest")
 
 ---
 
