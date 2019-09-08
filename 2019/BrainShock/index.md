@@ -1,6 +1,10 @@
 # **"Blockchain We Trust"** *by #BrainShock*!
 ---
 
+![](ScopePresentation.jpg "by Khun Wissanu Sameejaeng")
+
+---
+
 * **XXXXX**
 
 Xxxxxxxxxx
