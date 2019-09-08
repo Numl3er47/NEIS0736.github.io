@@ -47,8 +47,6 @@
 
 ![](HereWeFix/64.jpg "#HereWeFix Contest")
 
-![](HereWeFix/66.jpg "#HereWeFix Contest")
-
 ![](HereWeFix/68.jpg "#HereWeFix Contest")
 
 ![](HereWeFix/70.jpg "#HereWeFix Contest")
