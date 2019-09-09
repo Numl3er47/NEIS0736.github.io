@@ -16,11 +16,11 @@
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
+	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 *  (Sep 15) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  Postponed
-	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Chitsanuphong Thaninthorn** (6117660004)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
@@ -296,9 +296,9 @@
 
 <a name="HereWeFix"></a>
 #### [**Day 11**] - (Sat) **Sep 7,** 2019
+*  **Project Scope Presentation**
 *  **MiSS**x***Talks***
    * *Sirimongkol W*
-*  **Project Scope Presentation**
 *  **[#HereWeFix *Contest*](HereWeFixContest)** ([Google](https://www.google.com/search?q=%23HereWeFix))
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-11)** *by **Pattama T.***
 
@@ -306,6 +306,7 @@
 *  **MiSS**x***Talks***
    * *Yuttapon K*
    * *Wissanu S*
+   * *Pongpat P*
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
