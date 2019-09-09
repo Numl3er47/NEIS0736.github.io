@@ -20,9 +20,9 @@
 *  (Sep 15) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
+	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 *  Postponed
 	* **Chitsanuphong Thaninthorn** (6117660004)
-	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
 
@@ -312,6 +312,7 @@
 *  **MiSS**x***Talks***
    * *Raksapon L*
    * *Mutchima C*
+   * *Suparath S*
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **Project Presentation**
