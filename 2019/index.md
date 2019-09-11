@@ -37,9 +37,9 @@
 	* **Ardnarong Boonkerd** (Certificate) - "***[Code quality, measuring and improving it, getting started with SonarQube.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Code-Quality_v1.0.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211802447055505)]
 *  (Aug 24)
 	* **Chalermwut Likasitwong** (6117810006) - "***[Tips for Securing your Information Under PCI DSS](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Tips-for-Securing-your-Information-Under-PCI-DSS.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880484126383)]
-	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
+	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
 *  (Sep 7) 
-	* **Sirimongkol Wongfu** (6117810003) - "***What is Security Misconfiguration, and How to Avoid it***" - [[Online](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
+	* **Sirimongkol Wongfu** (6117810003) - "***[What is Security Misconfiguration, and How to Avoid it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_What-is-SecurityMisconfiguration-and-How-to-Avoid-it.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
 
 ---
 
