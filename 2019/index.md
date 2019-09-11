@@ -17,13 +17,13 @@
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
+	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 *  (Sep 15) 
 	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***"
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 *  Postponed
 	* **Chitsanuphong Thaninthorn** (6117660004)
-	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
 
 
