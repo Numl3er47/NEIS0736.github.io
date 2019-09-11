@@ -18,7 +18,7 @@
 	* **Wissanu Sameejaeng** (6117810011)
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 *  (Sep 15) 
-	* **Raksapon Leelachat** (6117810001)
+	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***"
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 *  Postponed
