@@ -306,7 +306,9 @@
 *  **MiSS**x***Talks***
    * *Yuttapon K*
    * *Wissanu S*
-   * *Pongpat P*
+   * *Pongpat P*	
+   * *Pattama T*
+   * *Tossaporn H*
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
