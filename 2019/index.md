@@ -320,7 +320,6 @@
 *  **Project Presentation**
    1. *CI/CD*
    1. *Blockchain*
-   1. *TBD (if any)*
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
 
