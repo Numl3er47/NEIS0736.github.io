@@ -18,7 +18,7 @@
 	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***"
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
-	* **Tossaporn Hansing** (6117810016)
+	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***"
 *  (Sep 15) 
 	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***"
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***"
