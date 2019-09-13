@@ -15,7 +15,7 @@
 
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
-	* **Wissanu Sameejaeng** (6117810011)
+	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***"
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016)
