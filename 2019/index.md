@@ -308,7 +308,7 @@
    * *Pattama T*
    * *Tossaporn H*
 *  **Software development activities**
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-11)** *by **Pattama T.***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-12)** *by **Tanapad O.***
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
@@ -316,6 +316,7 @@
    * *Mutchima C*
    * *Suparath S*
    * *Yuttapon K*
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-13)** *by **Xxxx x.***
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **Project Presentation**
@@ -323,9 +324,11 @@
    1. *Blockchain*
 <a name="EndGame"></a>
 *  Grouping for the <a href="#EndGame">#EndGame</a>
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-14)** *by **Xxxx x.***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 *  **#EndGame**, the ***Final Battle***
+*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Xxxx x.***
 
 #### [**Final Examination**] - *(Lec + Lab)*
 *  Date : **TBA**
