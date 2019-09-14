@@ -13,16 +13,11 @@
 <a name="MiSSxTalks"></a>
 **MiSS**x***Talks***
 
-*  (Sep 14)
-    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
-	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***"
-	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
-	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
-	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***"
 *  (Sep 15) 
 	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***"
 	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***"
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
+    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 *  Postponed
 	* **Chitsanuphong Thaninthorn** (6117660004)
 
@@ -40,7 +35,11 @@
 	* **Tanapad Onsri** (6117810004) - "***[Data Breaches, Data Leaks, Web Defacements Why Secure Coding Is Important?](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_DataBreaches-DataLeaks-WebDefacements-WhySecureCodingIsImportant.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211880823094857)]
 *  (Sep 7) 
 	* **Sirimongkol Wongfu** (6117810003) - "***[What is Security Misconfiguration, and How to Avoid it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_What-is-SecurityMisconfiguration-and-How-to-Avoid-it.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
-
+*  (Sep 14)
+	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***"
+	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
+	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
+	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***"
 ---
 
 **Members**
