@@ -36,7 +36,7 @@
 *  (Sep 7) 
 	* **Sirimongkol Wongfu** (6117810003) - "***[What is Security Misconfiguration, and How to Avoid it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_What-is-SecurityMisconfiguration-and-How-to-Avoid-it.pdf)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211956069335966)]
 *  (Sep 14)
-	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***"
+	* **Wissanu Sameejaeng** (6117810011) - "***Security Tips for Your ERP Implementation***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211992903976809)]
 	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***"
