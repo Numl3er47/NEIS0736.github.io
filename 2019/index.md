@@ -331,7 +331,7 @@
 *  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-15)** *by **Xxxx x.***
 
 #### [**Final Examination**] - *(Lec + Lab)*
-*  Date : **TBA**
+* *(Sun)* **Oct 12, 2019** *(AM)*
 *  ***Keywords***
 	* Keyword1
 	* Keyword2
