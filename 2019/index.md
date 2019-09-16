@@ -307,11 +307,10 @@
 
 #### [**Day 13**] - (***Sun***) **Sep 15,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
-   * *Raksapon L*
-   * *Mutchima C*
    * *Suparath S*
+   * *Mutchima C*
+   * *Raksapon L*
    * *Yuttapon K*
-*  **[Daily Scribe](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-13)** *by **Xxxx x.***
 
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **Project Presentation**
