@@ -34,13 +34,10 @@
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993172183514)]
 	* **Tossaporn Hansing** (6117810016) - "***Think Like an Attacker and Improve Your Defensive Strategy***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10211993612154513)]
 *  (Sep 15) 
-	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***" - [[Done](URL)]
-	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***" - [[Done](URL)]
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***" - [[Done](URL)]
-    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***" - [[Done](URL)]
-
-*  Postponed
-	* **Chitsanuphong Thaninthorn** (6117660004)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***" - [[Done](URL)]
+	* **Raksapon Leelachat** (6117810001) - "***Secure Deployment***" - [[Done](URL)]
+    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***" - [[Done](https://www.facebook.com/tourlek.fisho/posts/10212001044300312)]
 
 ---
 
