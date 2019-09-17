@@ -27,7 +27,7 @@ Zzzzzzzzzz
 	1. 6117810005 Mutchima Chuensart
 	2. 6117810011 Witsanu Sameajang
 	3. 6117810012 Yuttapon Kunkot
-	4. 6117810014 Patta Thonprapai
+	4. 6117810014 Pattama Thongprapai
 	5. 6117810016 Tossaporn Hansing
 	6. Pongpat Rakdej (Blockchain Specialist)
 	7. Maykin Warasart (Project Sponsor)
