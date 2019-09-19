@@ -54,16 +54,19 @@
 
 ### **Step 5. UAT
 
-* **(QA / Tester)
+* **(QA / Tester)**
 	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
 
 
 ---
 # **CD (continuous deployment)**
 
-* **6. System Admin Deploy production และ ทำการ monitoring ต่อไป**
+### **Step 6. Deploy and Monitoring
 
-Zzzzzzzzzz
+* **(System Admin)**
+	* Deploy production
+	* Monitoring
+
 
 ---
 * **Team Member**
