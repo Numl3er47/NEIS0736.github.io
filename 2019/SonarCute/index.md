@@ -20,11 +20,11 @@
 	- ทำการเตรียม Token ของ GitLab Runner  เพื่อส่งต่อให้กับ Sys Admin นำไปใช้สำหรับลงบน Gitlab Runners onTest Server ต่อไป
 * **(Developer)**
 
-* login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด
+	* login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด
 
 * **(System Admin)**
 
-* Prepare Server
+	* Prepare Server
 
 ---
 
