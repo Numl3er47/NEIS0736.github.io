@@ -7,7 +7,7 @@
 
 ## **CI (continuous integration)**
 
-### **Step 1. Create GigHub Project, Create GitLab CI/CD Project, Develop source code, Prepare Server**
+### **Step 1. Create GigHub Project, Create GitLab CI/CD Project, Develop source code**
 * **(Maintainer)**
 
 	* Create GitHub Project
@@ -23,19 +23,20 @@
 
 	* login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด
 
-* **(System Admin)**
-
-	* Prepare Server
 
 ---
 
-### **Step 2. Send GitLab Runner info**
+### **Step 2. Send GitLab Runner info, Prepare server and install Gitlab Runner**
 * **(Maintainer)**
 
 	* [Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner](https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/)
 
+* **(System Admin)**
+	* [Prepare Server and install Gitlab Runner](https://ardnarong.github.io/neis0736-cicd/System%20Admin%20Prepare%20Server/)
 
 ---
+
+### **Step 3. Connect GitHub กับ 
 
 * **3. Maintainer ทำการ connect GitHub กับ Sonar Cloud**
 
