@@ -72,17 +72,94 @@
 				4. Mobile Number
 				5. Role
 			- Expected Result :
-				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
-					 <img src="CICD_adduser01.png"/>
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
 				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
 				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
 
-
-
 		- Test Case-Delete User
+			- Preconditons :
+				1. ระบบที่เปิดให้บริการ
+				2. ข้อมูลของ User ที่จะต้องทำการ Add
+			- Aciton : 
+				1. Login เข้าสู่ระบบ
+				2. เข้าเมนู User
+				3. กดปุ่ม “+Add New”
+				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
+				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+			- Input : 
+				1. Full name
+				2. Email Address
+				3. Default Password
+				4. Mobile Number
+				5. Role
+			- Expected Result :
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
+				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
+				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+		
 		- Test Case-Edit User
+		
+			- Preconditons :
+				1. ระบบที่เปิดให้บริการ
+				2. ข้อมูลของ User ที่จะต้องทำการ Add
+			- Aciton : 
+				1. Login เข้าสู่ระบบ
+				2. เข้าเมนู User
+				3. กดปุ่ม “+Add New”
+				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
+				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+			- Input : 
+				1. Full name
+				2. Email Address
+				3. Default Password
+				4. Mobile Number
+				5. Role
+			- Expected Result :
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
+				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
+				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+				
 		- Test Case-Login Fail
+			- Preconditons :
+				1. ระบบที่เปิดให้บริการ
+				2. ข้อมูลของ User ที่จะต้องทำการ Add
+			- Aciton : 
+				1. Login เข้าสู่ระบบ
+				2. เข้าเมนู User
+				3. กดปุ่ม “+Add New”
+				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
+				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+			- Input : 
+				1. Full name
+				2. Email Address
+				3. Default Password
+				4. Mobile Number
+				5. Role
+			- Expected Result :
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
+				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
+				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+		
 		- Test Case-Login Success
+			- Preconditons :
+				1. ระบบที่เปิดให้บริการ
+				2. ข้อมูลของ User ที่จะต้องทำการ Add
+			- Aciton : 
+				1. Login เข้าสู่ระบบ
+				2. เข้าเมนู User
+				3. กดปุ่ม “+Add New”
+				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
+				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+			- Input : 
+				1. Full name
+				2. Email Address
+				3. Default Password
+				4. Mobile Number
+				5. Role
+			- Expected Result :
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
+				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
+				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
 
 
 ---
@@ -98,9 +175,13 @@
 ---
 * **Team Member**
 
-	1. xxxx
-	1. xxxx
-	1. xxxx
+	1. คุณ ธนพัฒน์ อ่อนสี 6117810004 หน้าที่รับผิดชอบ : Tester
+	1. คุณ พงศ์พัฒน์  เพ็ชรไชย  6117810009 หน้าที่รับผิดชอบ : Tester
+	1. คุณ เบส หน้าที่รับผิดชอบ : Maintainer
+	1. คุณ รักษพล ลีลาฉัตร 6117810001 หน้าที่รับผิดชอบ : System Admin
+	1. คุณ ศิริมงคล วงค์ฟู 6117810003 หน้าที่รับผิดชอบ : Tester
+	1. คุณ อาจณรงค์ บุญเกิด หน้าที่รับผิดชอบ : Developer
+	1. คุณอังคาร ภุมรินทร์ หน้าที่รับผิดชอบ : Secretary
 
 ---
 
