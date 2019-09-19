@@ -11,9 +11,8 @@
 * **(Maintainer)**
 
 	* Create GitHub Project
-		- สร้าง New repository ชื่อ NEIS0736-Project_CI-CD บน Github ของผม
+		- สร้าง New repository บน GitHub
 		- เพิ่ม Collaborators ส่วนของผู้ใช้งานหรือ ที่จะมีสิทธิ์เข้ามาทำอะไรได้บ้าง โดยปกติจะเป็น Dev
-		- ทั้งนี้ ที่ได้ปรึกษากับพี่อาจ@การเดินทาง  ให้แอดไว้หมดเผื่อให้เข้ามาดูได้ครับ
 	* [Create GitLab CI/CD Project](https://ardnarong.github.io/neis0736-cicd/Using%20GitLab%20CI-CD%20with%20a%20GitHub%20repository/)
 		- ทำการเชื่อม gitlab กับ github เพื่อให้ เห็น repo  ที่สร้างไว้แล้ว โดยการ new project>CI/CD for external repo>GitHub
 		- เราจะเห็นชื่อ repo ที่สร้างไว้บน GitHub. กด Connectแล้ว Go to Project
@@ -74,7 +73,7 @@
 				5. Role
 			- Expected Result :
 				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
-				![pic_test_adduser](CICD_adduser01.png)
+![pic_test_adduser](CICD_adduser01.png)
 				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
 				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
 
