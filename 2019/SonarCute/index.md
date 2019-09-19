@@ -106,23 +106,23 @@
 		
 			- Preconditons :
 				1. ระบบที่เปิดให้บริการ
-				2. ข้อมูลของ User ที่จะต้องทำการ Add
+				2. User ในระบบที่จะต้องทำการแก้ไข
+				3. ข้อมูลเบอร์โทรศัพท์ใหม่ของ User ที่จะต้องแก้ไข
 			- Aciton : 
 				1. Login เข้าสู่ระบบ
 				2. เข้าเมนู User
-				3. กดปุ่ม “+Add New”
-				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
-				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+				3. เลือก User ทำต้องการแก้ไขข้อมูล
+				4. เปลี่ยนข้อมูลเบอร์โทรศัพท์
+				5. กดปุ่ม Submit เพื่อแก้ไขข้อมูล
 			- Input : 
-				1. Full name
-				2. Email Address
-				3. Default Password
-				4. Mobile Number
-				5. Role
+				1. Mobile Number
 			- Expected Result :
-				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
-				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
-				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+				1. แสดงข้อมูล User ก่อนทำการแก้ไขข้อมูล
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
+				2. สามารถแก้ไขข้อมูลของ User ได้
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
+				3. ข้อมูลในระบบมีการเปลี่ยนแปลง
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
 				
 		- Test Case-Login Fail
 			- Preconditons :
@@ -141,9 +141,12 @@
 				4. Mobile Number
 				5. Role
 			- Expected Result :
-				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
-				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
-				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf01.png)
+				2. สามารถ Add User ได้โดยไม่เกิด Error
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf02.png)
+				3. มี User ที่ทำการเพิ่ม อยู่ในระบบ
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf03.png)
 		
 		- Test Case-Login Success
 			- Preconditons :
