@@ -28,7 +28,6 @@
 
 ### **Step 2. Send GitLab Runner info, Prepare server and install Gitlab Runner**
 * **(Maintainer)**
-
 	* [Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner](https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/)
 
 * **(System Admin)**
@@ -36,11 +35,11 @@
 
 ---
 
-### **Step 3. Connect GitHub กับ 
+### **Step 3. Connect GitHub กับ Sonar Cloud
 
-* **3. Maintainer ทำการ connect GitHub กับ Sonar Cloud**
+* **(Maintainer)**
+	* ทำการเชื่อมต่อ GitHub กับ Sonar Cloud
 
-Zzzzzzzzzz
 
 ---
 
