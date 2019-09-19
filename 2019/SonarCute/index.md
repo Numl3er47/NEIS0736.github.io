@@ -5,7 +5,7 @@
 
 ---
 
-
+## **CI (continuous integration)**
 
 * **1. (Maintainer) ทำการ Create GitHub Project และ Create GitLab CI/CD Project, (Developer) login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด, Prepare Server (System Admin)**
 
@@ -36,6 +36,8 @@ Zzzzzzzzzz
 Zzzzzzzzzz
 
 ---
+# **CD (continuous deployment)**
+
 * **6. System Admin Deploy production และ ทำการ monitoring ต่อไป**
 
 Zzzzzzzzzz
