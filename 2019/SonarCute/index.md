@@ -46,15 +46,17 @@
 ### **Step 4. Discusstion process CI stage (Build, Test, Deploy)
 
 * **(Maintainer)(System Admin)(Developer)**
-	* Build
+	* Process CI Stage
 		- ใช้ Docker(docker-compose.yml) test (Review code ) ใช้ Sonar Cloud ทั้งหมดทำงานด้วย .gitlac-ci.ymlDeveloper จึง Commit และ push code ที่ทำการแก้ไขแล้วเสร็จจากการตรวจของ Sonar Cloud ไปให้ Gitlab CI/CD project
 
 
 ---
 
-* **5. QA /Tester ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production**
+### **Step 5. UAT
 
-Zzzzzzzzzz
+* **(QA / Tester)
+	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
+
 
 ---
 # **CD (continuous deployment)**
