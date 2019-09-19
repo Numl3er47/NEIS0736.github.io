@@ -38,7 +38,7 @@
 ### **Step 3. Connect GitHub กับ Sonar Cloud**
 
 * **(Maintainer)**
-	* ทำการเชื่อมต่อ GitHub กับ Sonar Cloud
+	* [ทำการเชื่อมต่อ GitHub กับ Sonar Cloud](https://ardnarong.github.io/neis0736-cicd/github-and-sonarcloud/)
 
 
 ---
@@ -92,7 +92,7 @@
 ### **Step 6. Deploy and Monitoring**
 
 * **(System Admin)**
-	* Deploy production
+	* [Deploy production](https://ardnarong.github.io/neis0736-cicd/deploy/)
 	* Monitoring
 
 
