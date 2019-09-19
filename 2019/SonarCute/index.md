@@ -31,7 +31,7 @@ Zzzzzzzzzz
 
 ---
 
-* **5. QA /Tester ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production **
+* **5. QA /Tester ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production**
 
 Zzzzzzzzzz
 
