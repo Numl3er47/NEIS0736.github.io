@@ -29,9 +29,11 @@
 
 ---
 
-* **2. Maintainer Send GitLab Runner info เพื่อให้ system admin ทำการ install Gitlab runner**
+### **Step 2. Send GitLab Runner info**
+* **(Maintainer)**
 
-	* yyyy
+	* [Send Gitlab Runner info เพื่อให้ system admin ทำการ install Gitlab runner](https://ardnarong.github.io/neis0736-cicd/Maintainer%20send%20GitLab%20runner%20token%20to%20System%20Admin/)
+
 
 ---
 
