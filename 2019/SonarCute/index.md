@@ -21,7 +21,7 @@
 		- ทำการเตรียม Token ของ GitLab Runner  เพื่อส่งต่อให้กับ Sys Admin นำไปใช้สำหรับลงบน Gitlab Runners onTest Server ต่อไป
 * **(Developer)**
 
-	* login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด
+	* [login GitHub และใช้ sonar lint ในการพัฒนาซอสโค้ด](https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/)
 
 
 ---
@@ -56,6 +56,11 @@
 
 * **(QA / Tester)**
 	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
+		- Test Case-Add User
+		- Test Case-Delete User
+		- Test Case-Edit User
+		- Test Case-Login Fail
+		- Test Case-Login Success
 
 
 ---
