@@ -95,9 +95,12 @@
 			- Input : 
 				1. User
 			- Expected Result :
-				1. [แสดงข้อความ “Are you sure to delete this user ?” ก่อนทำการลบ User](CICD_deluser01.png)
-				2. [แสดงข้อความ “User successfully deleted” เพื่อให้ทราบว่าทำการลบ User สำเร็จ](CICD_deluser02.png)
-				3. [ในระบบไม่มี User ที่ทำการลบไปแล้ว](CICD_deluser03.png)
+				1. แสดงข้อความ “Are you sure to delete this user ?” ก่อนทำการลบ User
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser01.png)
+				2. แสดงข้อความ “User successfully deleted” เพื่อให้ทราบว่าทำการลบ User สำเร็จ
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser02.png)
+				3. ในระบบไม่มี User ที่ทำการลบไปแล้ว
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_deluser03.png)
 		
 		- Test Case-Edit User
 		
