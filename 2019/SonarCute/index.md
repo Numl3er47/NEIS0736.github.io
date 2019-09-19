@@ -73,7 +73,7 @@
 				5. Role
 			- Expected Result :
 				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
-					 <img src="CICD_adduser01.png" />
+					 <img src="CICD_adduser01.png"/>
 				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
 				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
 
