@@ -47,7 +47,7 @@
 
 * **(Maintainer)(System Admin)(Developer)**
 	* Process CI Stage
-		- ใช้ Docker(docker-compose.yml) test (Review code ) ใช้ Sonar Cloud ทั้งหมดทำงานด้วย .gitlac-ci.ymlDeveloper จึง Commit และ push code ที่ทำการแก้ไขแล้วเสร็จจากการตรวจของ Sonar Cloud ไปให้ Gitlab CI/CD project
+		- [ใช้ Docker(docker-compose.yml) test (Review code ) ใช้ Sonar Cloud ทั้งหมดทำงานด้วย .gitlac-ci.ymlDeveloper จึง Commit และ push code ที่ทำการแก้ไขแล้วเสร็จจากการตรวจของ Sonar Cloud ไปให้ Gitlab CI/CD project](https://ardnarong.github.io/neis0736-cicd/Improving%20code%20quality%20with%20SonarQube/images/img%20(4).png)
 
 
 ---
@@ -57,6 +57,28 @@
 * **(QA / Tester)**
 	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
 		- Test Case-Add User
+			- Preconditons :
+				1. ระบบที่เปิดให้บริการ
+				2. ข้อมูลของ User ที่จะต้องทำการ Add
+			- Aciton : 
+				1. Login เข้าสู่ระบบ
+				2. เข้าเมนู User
+				3. กดปุ่ม “+Add New”
+				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
+				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+			- Input : 
+				1. Full name
+				2. Email Address
+				3. Default Password
+				4. Mobile Number
+				5. Role
+			- Expected Result :
+				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
+				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
+				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+
+
+
 		- Test Case-Delete User
 		- Test Case-Edit User
 		- Test Case-Login Fail
