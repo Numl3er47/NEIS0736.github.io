@@ -120,55 +120,40 @@
 				1. แสดงข้อมูล User ก่อนทำการแก้ไขข้อมูล
 					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
 				2. สามารถแก้ไขข้อมูลของ User ได้
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser02.png)
 				3. ข้อมูลในระบบมีการเปลี่ยนแปลง
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser03.png)
 				
 		- Test Case-Login Fail
 			- Preconditons :
-				1. ระบบที่เปิดให้บริการ
-				2. ข้อมูลของ User ที่จะต้องทำการ Add
+				1. Email Address
+				2. Password
 			- Aciton : 
-				1. Login เข้าสู่ระบบ
-				2. เข้าเมนู User
-				3. กดปุ่ม “+Add New”
-				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
-				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+				1. กรอก Email Address ผิดในช่อง
+				2. กรอก Password ผิดในช่อง
+				3. กดปุ่ม Sign In
 			- Input : 
-				1. Full name
-				2. Email Address
-				3. Default Password
-				4. Mobile Number
-				5. Role
+				1. Email และ Password
 			- Expected Result :
-				1. เพิ่มข้อมูลของ User ที่ต้องการ Add
+				1. ไม่สามารถเข้าใช้งานได้ พร้อมทั้งมีแจ้งชื่อผู้ใช้งานหรือรหัสผ่านผิด
 					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf01.png)
-				2. สามารถ Add User ได้โดยไม่เกิด Error
 					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf02.png)
-				3. มี User ที่ทำการเพิ่ม อยู่ในระบบ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_loginf03.png)
 		
 		- Test Case-Login Success
 			- Preconditons :
-				1. ระบบที่เปิดให้บริการ
-				2. ข้อมูลของ User ที่จะต้องทำการ Add
+				1. Email Address
+				2. Password
 			- Aciton : 
-				1. Login เข้าสู่ระบบ
-				2. เข้าเมนู User
-				3. กดปุ่ม “+Add New”
-				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
-				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+				1. กรอก Email Address ผิดในช่อง
+				2. กรอก Password ผิดในช่อง
+				3. กดปุ่ม Sign In
 			- Input : 
-				1. Full name
-				2. Email Address
-				3. Default Password
-				4. Mobile Number
-				5. Role
+				1. Email และ Password
 			- Expected Result :
-				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
-				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
-				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
-
+				1. สามารถ Login เข้าใช้งานได้สำเร็จ
+			- Post Conditions : สามารถเข้าสู่ระบบและใช้งานระบบได้อย่างปรกติ
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_logins01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_logins02.png)
 
 ---
 # **CD (continuous deployment)**
