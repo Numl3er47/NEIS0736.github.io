@@ -7,7 +7,7 @@
 
 ## **CI (continuous integration)**
 
-* Step 1. Create GigHub Project, Create GitLab CI/CD Project, Develop source code, Prepare Server *
+* Step 1. Create GigHub Project, Create GitLab CI/CD Project, Develop source code, Prepare Server
 * **(Maintainer)**
 
 	* Create GitHub Project
