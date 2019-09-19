@@ -3,25 +3,53 @@
 
 ![](ScopePresentation.jpg "by Khun Wissanu Sameejaeng")
 
----
 
-* **XXXXX**
 
-Xxxxxxxxxx
+* **MUT ALL STAR**
 
----
+**1. Introduction**
 
-* **YYYYY**
+    - What is Blockchain?
+   
+    - Procedure of blockchain
+   
+    - Contain of blockchain
+   
+**2. Ethereum Wallet**
 
-	* yyyy
+    - What is Ethereum?
+   
+    - Meta Mask wallet tool 
+   
+    - How to register to Meta Mask
+   
+    - How to use Meta Mask
+   
+**3. Smart contract & Solidity**
 
----
+    - What is Smart Contract?
+    
+    - Why do we have to trust the Smart Contract?
+    
+    - Value types
+    
+    - Writing style (Syntax)
+    
+    - IDE’s used in development
 
-* **ZZZZZ**
+    - Deploy to test
 
-Zzzzzzzzzz
+    - Demo
+   
+**4. Server backend frontend**
 
----
+    - Front-End Technology 
+    
+    - Back-End Technology Stack
+
+**5. Demonstation Program**
+
+
 * **Team Member**
 
 	1. 6117810005 Mutchima Chuensart
