@@ -35,7 +35,7 @@
 
 ---
 
-### **Step 3. Connect GitHub กับ Sonar Cloud
+### **Step 3. Connect GitHub กับ Sonar Cloud**
 
 * **(Maintainer)**
 	* ทำการเชื่อมต่อ GitHub กับ Sonar Cloud
@@ -43,7 +43,7 @@
 
 ---
 
-### **Step 4. Discusstion process CI stage (Build, Test, Deploy)
+### **Step 4. Discusstion process CI stage (Build, Test, Deploy)**
 
 * **(Maintainer)(System Admin)(Developer)**
 	* Process CI Stage
@@ -52,7 +52,7 @@
 
 ---
 
-### **Step 5. UAT
+### **Step 5. UAT**
 
 * **(QA / Tester)**
 	* ทำ UAT หลังจาก Develop ผ่านการแก้ไขจะเข้าสู่กระบวนการ Change เพื่อทำการ Deploy production
@@ -61,7 +61,7 @@
 ---
 # **CD (continuous deployment)**
 
-### **Step 6. Deploy and Monitoring
+### **Step 6. Deploy and Monitoring**
 
 * **(System Admin)**
 	* Deploy production
