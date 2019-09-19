@@ -4,7 +4,7 @@
 ![](ScopePresentation.jpg "by Khun Ardnarong Boonkerd")
 
 # **CI/CD Process**
-![](CICD_Process.png)
+![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_Process.png)
 
 
 ---
@@ -83,23 +83,18 @@
 		- Test Case-Delete User
 			- Preconditons :
 				1. ระบบที่เปิดให้บริการ
-				2. ข้อมูลของ User ที่จะต้องทำการ Add
+				2. User ในระบบ
 			- Aciton : 
 				1. Login เข้าสู่ระบบ
 				2. เข้าเมนู User
-				3. กดปุ่ม “+Add New”
-				4. กรอกข้อมูลของ User ที่ต้องทำการ Add
-				5. กดปุ่ม “Submit” เพื่อเพิ่ม User
+				3. เลือก User ที่ต้องการแก้ไขข้อมูล
+				4. กดปุ่ม Delete เพื่อลบ User
 			- Input : 
-				1. Full name
-				2. Email Address
-				3. Default Password
-				4. Mobile Number
-				5. Role
+				1. User
 			- Expected Result :
-				1. [เพิ่มข้อมูลของ User ที่ต้องการ Add](CICD_adduser01.png)
-				2. [สามารถ Add User ได้โดยไม่เกิด Error](CICD_adduser02.png)
-				3. [มี User ที่ทำการเพิ่ม อยู่ในระบบ](CICD_adduser03.png)
+				1. [แสดงข้อความ “Are you sure to delete this user ?” ก่อนทำการลบ User](CICD_deluser01.png)
+				2. [แสดงข้อความ “User successfully deleted” เพื่อให้ทราบว่าทำการลบ User สำเร็จ](CICD_deluser02.png)
+				3. [ในระบบไม่มี User ที่ทำการลบไปแล้ว](CICD_deluser03.png)
 		
 		- Test Case-Edit User
 		
