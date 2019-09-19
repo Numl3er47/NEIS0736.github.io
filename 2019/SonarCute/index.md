@@ -7,7 +7,7 @@
 
 ## **CI (continuous integration)**
 
-* **(Maintainer)**
+* "**[Maintainer](https://ardnarong.github.io/neis0736-cicd/Using%20GitLab%20CI-CD%20with%20a%20GitHub%20repository/)**"
 
 * Create GitHub Project
 	- สร้าง New repository ชื่อ NEIS0736-Project_CI-CD บน Github ของผม
