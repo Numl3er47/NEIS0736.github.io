@@ -81,7 +81,7 @@
 				2. สามารถ Add User ได้โดยไม่เกิด Error
 					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
 				3. มี User ที่ทำการเพิ่ม อยู่ในระบบ
-					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_adduser01.png)
+					![](https://github.com/c61213oN/c61213on.github.io/blob/master/CICD_edituser01.png)
 
 		- Test Case-Delete User
 			- Preconditons :
